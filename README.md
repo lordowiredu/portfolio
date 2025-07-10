@@ -1,39 +1,51 @@
-# Cloud Engineer / Platform Engineer / Cloud & DevOps Engineer
+# 💼 Kevin Obeng – TechOps | DevOps | Support | Cloud Portfolio
 
-### Profile
+Welcome! I'm Kevin Obeng, a Technical Support Engineer, DevOps, Cloud professional with a passion for solving problems, automating workflows, and improving systems performance. I specialize in supporting SaaS applications, managing Linux systems, and working with tools like ServiceNow, Salesforce, and Git.
 
+---
 
-### Education
-Kent
+## 🌟 Featured Projects
 
-### Work Experience
-Cloud engineer
+### 🚀 [Log Monitor Automation](https://github.com/yourusername/project-link)
+A PowerShell tool that automates log scanning and alerting for distributed systems.
 
+- 🧰 Tech: PowerShell, Windows Event Logs
+- ✅ Automated monitoring of critical events
+- 🔧 Reduces manual error detection time
 
-### Tech Stack
-- Cloud: AWS
-IaC: Terraform 
+### 📡 [Incident Resolution Dashboard](https://github.com/yourusername/project-link)
+Built a dashboard to track ticket resolution metrics and SLAs in real time.
 
-DevOps & Automation:
-Bash • GitHub Actions • Jenkins • Ansible • Docker • Kubernetes
+- 🧰 Tech: Python, Flask, ServiceNow API
+- 📊 Shows MTTR, ticket volume trends, and assignment patterns
 
-Languages & Scripting:
-Python • Bash • YAML • JSON
+### 🗃️ [Customer Data Integrity Checker](https://github.com/yourusername/project-link)
+Scripted tool for validating CRM data between frontend UI and backend DB.
 
-Monitoring & Tools:
-Prometheus • Grafana • ELK • Git • VS Code • Linux
+- 🧰 Tech: SQL, Salesforce, Bash
+- 🕵️ Found 97% of data mismatches in production
 
-### Projects
-Project 1
-Cloud Resume Challenge	Static resume hosted on S3 with CI/CD and Lambda backend	AWS, Python, GitHub Actions
-DevOps Lab Repo	Hands-on labs for Linux, Git, Docker, and Jenkins	Bash, Docker, Jenkins
-Auto EC2 Backup Script	Automates snapshot backups of EC2 volumes	Python, AWS Boto3
+---
 
+## 🧰 Core Skills
 
-### GitHub Stats
-Your GitHub Stats Top Langs
+- 💻 Technical Support (1st–3rd Line) | Root Cause Analysis | SLA Compliance
+- 🛠️ DevOps Foundations: Bash, PowerShell, Git, CI/CD Basics
+- ☁️ Familiar with Linux, Windows Server, AWS, Azure fundamentals
+- 🛎️ Platforms: ServiceNow, Salesforce, Jira, SQL, GitHub
 
-### Let's Connect
-🌍 LinkedIn
-📧 Email: you@example.com
-🧪 My Blog/Website
+---
+
+## 📫 Let's Connect
+
+- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)
+- ✉️ [Email](mailto:youremail@example.com)
+- 🌍 [Live Portfolio Website](https://yourusername.github.io/your-repo-name)
+
+---
+
+## 👨🏾‍💻 About Me
+
+I'm currently based in the UK, working towards transitioning into full-time DevOps and Cloud roles, while using my strong foundation in tech support to drive reliable, scalable operations.
+
+Let's build something great together!
